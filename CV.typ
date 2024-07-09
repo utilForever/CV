@@ -235,10 +235,9 @@
 )
 
 #resume-item[
-  - Review a variety of papers, from DQN to state-of-the-art papers introduced in the latest conferences
-  - Present and discuss 2 papers per week
-  - 100+@ papers
-  - 100+@ members
+  - A Facebook community that researches reinforcement learning and shares related information
+  - Host meetups and studies periodically
+  - 6000+@ members
 ]
 
 #resume-entry(
@@ -249,9 +248,10 @@
 )
 
 #resume-item[
-  - A Facebook community that researches reinforcement learning and shares related information
-  - Host meetups and studies periodically
-  - 6000+@ members
+  - Review a variety of papers, from DQN to state-of-the-art papers introduced in the latest conferences
+  - Present and discuss 2 papers per week
+  - 100+@ papers
+  - 100+@ members
 ]
 
 ~~

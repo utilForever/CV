@@ -24,6 +24,17 @@
 = Work Experience
 
 #resume-entry(
+  title: "Embedded Software Engineer",
+  location: "Seongnam-si, South Korea",
+  date: "Sep 2024 - Present",
+  description: "42dot",
+)
+
+#resume-item[
+  - *Develop something using Rust (Secret)*
+]
+
+#resume-entry(
   title: "Tech Lead",
   location: "Seoul, South Korea",
   date: "Dec 2023 - Jun 2024",
@@ -115,6 +126,10 @@
   - Implemented WebAssembly support
   - Implemented several core features such as 'BehaviorSubject', 'WithLatestFrom' and 'StartsWith'
 ]
+
+~~
+
+~~
 
 = Skills
 
@@ -240,6 +255,12 @@
   - 6000+@ members
 ]
 
+~~
+
+~~
+
+~~
+
 #resume-entry(
   title: "Reinforcement Learning Paper Study",
   location: "Online",
@@ -253,10 +274,6 @@
   - 100+@ papers
   - 100+@ members
 ]
-
-~~
-
-~~
 
 = Teaching
 
@@ -401,10 +418,6 @@
   date: "Dec 2022",
   description: "Developers' Reinforcement Learning",
 )
-
-~~
-
-~~
 
 #resume-entry(
   title: "INFCON 2022",

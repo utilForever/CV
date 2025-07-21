@@ -1,4 +1,4 @@
-#import "@preview/modern-cv:0.3.1": *
+#import "@preview/modern-cv:0.7.0": *
 
 #show: resume.with(
   author: (
@@ -8,7 +8,7 @@
     phone: "(+82) 010-4613-9395",
     github: "utilForever",
     linkedin: "utilForever",
-    address: "617, Sampyeong-dong, Bundang-gu, Seongnam-si, South Korea",
+    address: "617, Sampyeong-dong, Bundang-gu, Seongnam, South Korea",
     positions: (
       "Game Programmer",
       "Engine Engineer",
@@ -25,7 +25,7 @@
 
 #resume-entry(
   title: "Embedded Software Engineer",
-  location: "Seongnam-si, South Korea",
+  location: "Seongnam, South Korea",
   date: "Sep 2024 - Present",
   description: "42dot",
 )
@@ -62,7 +62,7 @@
 
 #resume-entry(
   title: "Game Programmer",
-  location: "Seongnam-si, South Korea",
+  location: "Seongnam, South Korea",
   date: "Sep 2015 - Jul 2021",
   description: "Nexon Korea",
 )
@@ -126,10 +126,6 @@
   - Implemented WebAssembly support
   - Implemented several core features such as 'BehaviorSubject', 'WithLatestFrom' and 'StartsWith'
 ]
-
-~~
-
-~~
 
 = Skills
 
@@ -255,12 +251,6 @@
   - 6000+@ members
 ]
 
-~~
-
-~~
-
-~~
-
 #resume-entry(
   title: "Reinforcement Learning Paper Study",
   location: "Online",
@@ -371,10 +361,59 @@
 = Presentation
 
 #resume-entry(
+  title: "Kookmin University, KPSC - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "Nov 2024",
+  description: "How Does Rust Achieve Safe Programming?",
+)
+
+#resume-entry(
+  title: "K-DEVCON 2024",
+  location: "Seoul, South Korea",
+  date: "Oct 2024",
+  description: "How Does Rust Achieve Safe Programming?",
+)
+
+#resume-entry(
+  title: "2024 GIST Developer’s Night",
+  location: "Gwangju, South Korea",
+  date: "Sep 2024",
+  description: "How Does Rust Achieve Safe Programming?",
+)
+
+#resume-entry(
+  title: "Turing's Apple Mini Conference",
+  location: "Seoul, South Korea",
+  date: "Sep 2024",
+  description: "A Journey into Open Source",
+)
+
+#resume-entry(
+  title: "2024 GSM Festival",
+  location: "Gwangju, South Korea",
+  date: "Jul 2024",
+  description: "From High School Student to Developer",
+)
+
+#resume-entry(
+  title: "Sunrin Internet High School, PARA - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "Jul 2024",
+  description: "Introduction to Game Search Algorithm",
+)
+
+#resume-entry(
   title: "C++ Korea Meetup",
   location: "Seoul, South Korea",
   date: "Jun 2024",
   description: "A Quick Look of C++ Concurrency",
+)
+
+#resume-entry(
+  title: "Pusan National University, AID - Special Lecture",
+  location: "Busan, South Korea",
+  date: "Jun 2024",
+  description: "Developers' Reinforcement Learning",
 )
 
 #resume-entry(
@@ -385,10 +424,87 @@
 )
 
 #resume-entry(
+  title: "Ajou University, TML - Special Lecture",
+  location: "Suwon, South Korea",
+  date: "Jun 2024",
+  description: "Leap from College Student to Developer",
+)
+
+#resume-entry(
+  title: "Kyungpook National University, CSE - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "May 2024",
+  description: "Things I wish I'd known in College (2024 Ver)",
+)
+
+#resume-entry(
+  title: "Sejong University, LIKELION - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "May 2024",
+  description: "Things I wish I'd known in College (2024 Ver)",
+)
+
+#resume-entry(
+  title: "Chonbuk National University, ALPS - Special Lecture",
+  location: "Jeonju, South Korea",
+  date: "May 2024",
+  description: "Making the Leap from College Student to Developer",
+)
+
+#resume-entry(
+  title: "KAIST Career Concert",
+  location: "Daejeon, South Korea",
+  date: "May 2024",
+  description: "Large Corporation and Startup, Programmer and Manager",
+)
+
+#resume-entry(
   title: "4th DevTalk Seminar - Hongik University, Computer Engineering",
   location: "Seoul, South Korea",
   date: "Mar 2024",
   description: "Leap from College Student to Developer",
+)
+
+#resume-entry(
+  title: "ABB Developer Conference",
+  location: "Deagu, South Korea",
+  date: "Dec 2023",
+  description: "Reinforcement Learning Environment Development",
+)
+
+#resume-entry(
+  title: "Google DevFest 2023 Seoul",
+  location: "Seoul, South Korea",
+  date: "Dec 2023",
+  description: "Where does the difference between you and me come from?",
+)
+
+#resume-entry(
+  title: "GDSC Korea University - Lightning Talk",
+  location: "Seoul, South Korea",
+  date: "Dec 2023",
+  description: "Things I wish I'd known in College (2023 Ver)",
+)
+
+#resume-entry(
+  title: "Korea University, Dep of AI Cyber Security - Special Lecture",
+  location: "Sejong, South Korea",
+  date: "Nov 2023",
+  description: "Things I wish I'd known in College (2023 Ver)",
+)
+
+#resume-entry(
+  title: "DevFest on GDSC Kyungpook National University",
+  location: "Daegu, South Korea",
+  date: "Nov 2023",
+  description: "Things I wish I'd known in College (2023 Ver)",
+)
+
+#resume-entry(
+  title: "Gwangju Software Meister High School - Special Lecture",
+  location: "Gwangju, South Korea",
+  date: "Nov 2023",
+  description: "Things I wish I'd known in High School",
 )
 
 #resume-entry(
@@ -399,10 +515,59 @@
 )
 
 #resume-entry(
+  title: "NHN - September 2023 Technical Seminar",
+  location: "Seongnam, South Korea",
+  date: "Sep 2023",
+  description: "GIntroduction to Rust",
+)
+
+#resume-entry(
+  title: "Seasonal University Study & Communication - Special Lecture",
+  location: "Online",
+  date: "Jul 2023",
+  description: "Things I wish I'd known in College (2023 Ver)",
+)
+
+#resume-entry(
   title: "C++ Korea Meetup",
   location: "Seoul, South Korea",
   date: "Jun 2023",
   description: "Game Development without using Class",
+)
+
+#resume-entry(
+  title: "HUFS Tech Seminar, Build IT!",
+  location: "Yongin, South Korea",
+  date: "Jun 2023",
+  description: "Introduction to Rust",
+)
+
+#resume-entry(
+  title: "Hana Academy Seoul, Assembly - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "May 2023",
+  description: "Things I wish I'd known in High School",
+)
+
+#resume-entry(
+  title: "Kwangwoon University, School of Software - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "May 2023",
+  description: "Rust Cross-platform Programming",
+)
+
+#resume-entry(
+  title: "Dankook University Software High School, NOID - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "May 2023",
+  description: "Basic Study Methods for Game Programmers",
+)
+
+#resume-entry(
+  title: "Seoul National University, CSE - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "Apr 2023",
+  description: "Rust Cross-platform Programming",
 )
 
 #resume-entry(
@@ -413,6 +578,13 @@
 )
 
 #resume-entry(
+  title: "KSCY - Research Track",
+  location: "Seoul, South Korea",
+  date: "Feb 2023",
+  description: "What does research mean to you?",
+)
+
+#resume-entry(
   title: "ModuLabs MODUPOP",
   location: "Seoul, South Korea",
   date: "Dec 2022",
@@ -420,10 +592,45 @@
 )
 
 #resume-entry(
+  title: "GDSC Dong-A University - Code Bridge",
+  location: "Seoul, South Korea",
+  date: "Nov 2022",
+  description: "Introduction to Reinforcement Learning",
+)
+
+#resume-entry(
+  title: "Kwangwoon University, CIE - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "Sep 2022",
+  description: "Reinforcement Learning Environment Development",
+)
+
+#resume-entry(
   title: "INFCON 2022",
   location: "Seoul, South Korea",
   date: "Aug 2022",
   description: "Rust Cross-platform Programming",
+)
+
+#resume-entry(
+  title: "Kwangwoon University, CIE - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "Jul 2022",
+  description: "ECS-based Game Development",
+)
+
+#resume-entry(
+  title: "Chung-Ang University, ZeroPage - Devils Camp",
+  location: "Seoul, South Korea",
+  date: "Jul 2022",
+  description: "Rust Game Programming",
+)
+
+#resume-entry(
+  title: "Kyungpook National University, CSE - Special Lecture",
+  location: "Daegu, South Korea",
+  date: "Jul 2022",
+  description: "From a Large Corporation to a Startup",
 )
 
 #resume-entry(
@@ -441,10 +648,66 @@
 )
 
 #resume-entry(
+  title: "Sunrin Internet High School Algorithm Conference",
+  location: "Seoul, South Korea",
+  date: "Dec 2021",
+  description: "Solving Algorithm Problems with Rust",
+)
+
+#resume-entry(
+  title: "Sunsim High School - Special Lecture",
+  location: "Chilgok, South Korea",
+  date: "Dec 2021",
+  description: "Game Programmer and Engine Programmer",
+)
+
+#resume-entry(
+  title: "Sejong Academy of Science and Arts - Special Lecture",
+  location: "Online",
+  date: "Nov 2021",
+  description: "Game Programmer and Engine Programmer",
+)
+
+#resume-entry(
   title: "Taling Monthly Code Reivew Ver 0.1",
   location: "Online",
   date: "Oct 2021",
   description: "Growing an Open Source Project",
+)
+
+#resume-entry(
+  title: "It has nothing to do with coding, but... Meetup",
+  location: "Seoul, South Korea",
+  date: "Jul 2021",
+  description: "ECS-based Game Development",
+)
+
+#resume-entry(
+  title: "Kyungpook National University - Special Lecture",
+  location: "Daegu, South Korea",
+  date: "May 2021",
+  description: "Guide to Getting a Job at a Game Company",
+)
+
+#resume-entry(
+  title: "GameMakers - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "May 2021",
+  description: "Guide to Getting a Job at a Game Company",
+)
+
+#resume-entry(
+  title: "Daegu Software Meister High School - Special Lecture",
+  location: "Daegu, South Korea",
+  date: "May 2021",
+  description: "Why Your Projects Fail",
+)
+
+#resume-entry(
+  title: "Daegu Software Meister High School - Special Lecture",
+  location: "Daegu, South Korea",
+  date: "May 2021",
+  description: "Guide to Getting a Job at a Game Company",
 )
 
 #resume-entry(
@@ -462,6 +725,13 @@
 )
 
 #resume-entry(
+  title: "KAIST Career Concert",
+  location: "Online",
+  date: "Nov 2020",
+  description: "Getting a Job at a Game Company",
+)
+
+#resume-entry(
   title: "2020 OSS Festival",
   location: "Online",
   date: "Nov 2020",
@@ -476,10 +746,38 @@
 )
 
 #resume-entry(
+  title: "GameMakers - Special Lecture",
+  location: "Online",
+  date: "Aug 2020",
+  description: "C++17 and C++20 Key Features Summary",
+)
+
+#resume-entry(
   title: "7th C++ Korea Seminar",
   location: "Online",
   date: "Jul 2020",
   description: "Game Development without using Pointer",
+)
+
+#resume-entry(
+  title: "Gwangju Software Meister High School - Special Lecture",
+  location: "Online",
+  date: "Jul 2020",
+  description: "Experience in developing Hearthstone Reinforcement Learning Environment",
+)
+
+#resume-entry(
+  title: "GDG Gwangju DevFest 2019",
+  location: "Gwangju, South Korea",
+  date: "Nov 2019",
+  description: "Experience in developing Hearthstone Reinforcement Learning Environment",
+)
+
+#resume-entry(
+  title: "Kyungpook National University, CSE - Special Lecture",
+  location: "Daegu, South Korea",
+  date: "Oct 2019",
+  description: "Graduate School Castle",
 )
 
 #resume-entry(
@@ -490,15 +788,29 @@
 )
 
 #resume-entry(
+  title: "Reinforcement Learning Korea - Special Lecture",
+  location: "Seoul, South Korea",
+  date: "Aug 2019",
+  description: "Experience in developing Hearthstone Reinforcement Learning Environment",
+)
+
+#resume-entry(
   title: "GDG Campus Seoul - Toy Story",
-  location: "Seongnam-si, South Korea",
+  location: "Seongnam, South Korea",
   date: "Jul 2019",
   description: "Trial and Error for a Sustainable Side Project",
 )
 
 #resume-entry(
+  title: "2nd Deep Learning Conference All Together",
+  location: "Daejeon, South Korea",
+  date: "Jul 2019",
+  description: "Experience in developing Hearthstone Reinforcement Learning Environment",
+)
+
+#resume-entry(
   title: "Nexon Developer Conference 2019",
-  location: "Seongnam-si, South Korea",
+  location: "Seongnam, South Korea",
   date: "Apr 2019",
   description: "Experience in developing Hearthstone Reinforcement Learning Environment",
 )
@@ -511,6 +823,34 @@
 )
 
 #resume-entry(
+  title: "Korea Community Day 2019",
+  location: "Seoul, South Korea",
+  date: "Feb 2019",
+  description: "Introduction to PyTorch C++ API",
+)
+
+#resume-entry(
+  title: "GDG Campus Korea - Daily Stories of the Junior Members",
+  location: "Seoul, South Korea",
+  date: "Feb 2019",
+  description: "Graduate School Castle",
+)
+
+#resume-entry(
+  title: "Korea Digital Media High School - Special Lecture",
+  location: "Ansan, South Korea",
+  date: "Dec 2018",
+  description: "To those of you who are about to start developing",
+)
+
+#resume-entry(
+  title: "ChungKang College of Cultural Industries - Special Lecture",
+  location: "Icheon, South Korea",
+  date: "Sep 2018",
+  description: "Let’s Give the Project a Proper Try",
+)
+
+#resume-entry(
   title: "Meltingcon 2018",
   location: "Seoul, South Korea",
   date: "May 2018",
@@ -519,7 +859,7 @@
 
 #resume-entry(
   title: "Nexon Developer Conference 2018",
-  location: "Seongnam-si, South Korea",
+  location: "Seongnam, South Korea",
   date: "Apr 2018",
   description: "Experience in developing Fluid Simulation Engine",
 )
@@ -554,7 +894,7 @@
 
 #resume-entry(
   title: "1st C++ Korea Seminar",
-  location: "Seongnam-si, South Korea",
+  location: "Seongnam, South Korea",
   date: "Dec 2014",
   description: "C++11 Key Features Summary",
 )

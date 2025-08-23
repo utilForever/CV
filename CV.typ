@@ -1,4 +1,4 @@
-#import "@preview/modern-cv:0.7.0": *
+#import "@preview/modern-cv:0.8.0": *
 
 #show: resume.with(
   author: (
@@ -18,6 +18,7 @@
   ),
   date: datetime.today().display(),
   language: "en",
+  profile-picture: none,
   colored-headers: true,
 )
 
@@ -268,37 +269,51 @@
 = Teaching
 
 #resume-entry(
+  title: "Make Chess AI using Reinforcement Learning",
+  location: "Seoul, South Korea",
+  date: "Mar 2025 - Jun 2025",
+  description: "Kookmin University - KPSC + AIM",
+)
+
+#resume-entry(
+  title: "Make SQLite using C++",
+  location: "Seoul, South Korea",
+  date: "Mar 2025 - Jun 2025",
+  description: "Korea University - MatKor",
+)
+
+#resume-entry(
   title: "Rust Basic + Linux Kernel Development",
   location: "Seoul, South Korea",
-  date: "Jul 2024 - Present",
+  date: "Jul 2024 - Oct 2024",
   description: "HSPACE",
 )
 
 #resume-entry(
   title: "Rust Basic + Cross-platform Application Development",
   location: "Seoul, South Korea",
-  date: "Mar 2024 - Present",
+  date: "Mar 2024 - Aug 2024",
   description: "Seoul National University - SCSC + Wafflestudio",
 )
 
 #resume-entry(
   title: "Rust Basic + Rogue-like Game Development",
   location: "Seoul, South Korea",
-  date: "Mar 2024 - Present",
+  date: "Mar 2024 - Aug 2024",
   description: "Konkuk University - GDSC Konkuk + EDGE",
 )
 
 #resume-entry(
-  title: "Rust Basic + Make a Blog",
+  title: "Rust Basic + Make Blog",
   location: "Seoul, South Korea",
-  date: "Mar 2024 - Present",
+  date: "Mar 2024 - Aug 2024",
   description: "Korea University - MatKor",
 )
 
 #resume-entry(
-  title: "Rust Basic + Make a Minecraft",
+  title: "Rust Basic + Make Minecraft",
   location: "Ulsan, South Korea",
-  date: "Jan 2023 - Present",
+  date: "Jan 2023 - Feb 2025",
   description: "UNIST - HeXA",
 )
 
@@ -359,6 +374,27 @@
 )
 
 = Presentation
+
+#resume-entry(
+  title: "Kprintf 2025",
+  location: "Seoul, South Korea",
+  date: "May 2025",
+  description: "I Am Ground - Introducing Myself",
+)
+
+#resume-entry(
+  title: "K-DEVCON Seoul",
+  location: "Seoul, South Korea",
+  date: "Feb 2025",
+  description: "Introduction to Rust Concurrency",
+)
+
+#resume-entry(
+  title: "UCON 25",
+  location: "Seoul, South Korea",
+  date: "Jan 2025",
+  description: "How should I go about learning to code?",
+)
 
 #resume-entry(
   title: "Kookmin University, KPSC - Special Lecture",

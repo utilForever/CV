@@ -7,6 +7,7 @@
     email: "utilforever@gmail.com",
     phone: "(+82) 010-4613-9395",
     github: "utilForever",
+    twitter: "utilForever",
     linkedin: "utilForever",
     address: "617, Sampyeong-dong, Bundang-gu, Seongnam, South Korea",
     positions: (
@@ -374,6 +375,20 @@
 )
 
 = Presentation
+
+#resume-entry(
+  title: "KAIST MadCamp Summer 2025 - Special Lecture",
+  location: "Daejeon, South Korea",
+  date: "Jul 2025",
+  description: "Do I really have to choose just one? What I’ve learned by experiencing various fields",
+)
+
+#resume-entry(
+  title: "Oops Conference 2025",
+  location: "Seoul, South Korea",
+  date: "Jul 2025",
+  description: "Do I really have to choose just one? What I’ve learned by experiencing various fields",
+)
 
 #resume-entry(
   title: "Kprintf 2025",

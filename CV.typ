@@ -26,14 +26,15 @@
 = Work Experience
 
 #resume-entry(
-  title: "Embedded Software Engineer",
+  title: "Senior Embedded Software Engineer",
   location: "Seongnam, South Korea",
-  date: "Sep 2024 - Present",
+  date: "Sep 2024 - Feb 2026",
   description: "42dot",
 )
 
 #resume-item[
-  - *Develop something using Rust (Secret)*
+  - *Develop Rust SDK for uploading data from electronic car to server*
+  - Research the way to merge JSON patches faster
 ]
 
 #resume-entry(
@@ -224,7 +225,7 @@
   description: "게임샐러드로 코드 한 줄 없이 게임 만들기",
 )
 
-= Communities and Studies
+= Community
 
 #resume-entry(
   title: "C++ Korea",
@@ -251,6 +252,20 @@
   - A Facebook community that researches reinforcement learning and shares related information
   - Host meetups and studies periodically
   - 6000+@ members
+]
+
+= Study
+
+#resume-entry(
+  title: "Computer Graphics Study",
+  location: "Seoul, South Korea",
+  date: "Dec 2025 - Present",
+  description: "Administrator",
+)
+
+#resume-item[
+  - Review a variety of computer graphics books
+  - Season 1: Real-time rendering, 4th edition
 ]
 
 #resume-entry(
@@ -375,6 +390,13 @@
 )
 
 = Presentation
+
+#resume-entry(
+  title: "K-DEVCON 2025",
+  location: "Seoul, South Korea",
+  date: "Nov 2025",
+  description: "Introduction to Rust Async",
+)
 
 #resume-entry(
   title: "KAIST MadCamp Summer 2025 - Special Lecture",

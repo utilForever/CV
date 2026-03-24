@@ -26,6 +26,18 @@
 = Work Experience
 
 #resume-entry(
+  title: "Visting Senior Researcher",
+  location: "Seoul, South Korea",
+  date: "Apr 2026 - Present",
+  description: "Hanyang University",
+)
+
+#resume-item[
+  - *Research unannounced projects*
+  - Write unannounced papers
+]
+
+#resume-entry(
   title: "Senior Embedded Software Engineer",
   location: "Seongnam, South Korea",
   date: "Sep 2024 - Feb 2026",
@@ -257,6 +269,20 @@
 = Study
 
 #resume-entry(
+  title: "System Design Study",
+  location: "Seoul, South Korea",
+  date: "Feb 2026 - Present",
+  description: "Administrator",
+)
+
+#resume-item[
+  - Review and discuss a variety of system design architecture
+  - Season 1: System Design Interview – An Insider's Guide
+]
+
+~~
+
+#resume-entry(
   title: "Computer Graphics Study",
   location: "Seoul, South Korea",
   date: "Dec 2025 - Present",
@@ -390,6 +416,41 @@
 )
 
 = Presentation
+
+#resume-entry(
+  title: "Chonnam National University, PIMM - Special Lecture",
+  location: "Gwangju, South Korea",
+  date: "Mar 2026",
+  description: "Why Your Projects Fail",
+)
+
+#resume-entry(
+  title: "Dong-A University, Dep of Software - Special Lecture",
+  location: "Busan, South Korea",
+  date: "Mar 2026",
+  description: "How to Survive as a Junior Developer in the Era of Vibe Coding",
+)
+
+#resume-entry(
+  title: "Gachon University, Dep of Smart City - Special Lecture",
+  location: "Seongnam, South Korea",
+  date: "Mar 2026",
+  description: "How to Survive as a Junior Developer in the Era of Vibe Coding",
+)
+
+#resume-entry(
+  title: "Kyungpook National University, CSE - Special Lecture",
+  location: "Daegu, South Korea",
+  date: "Feb 2026",
+  description: "How to Survive as a Junior Developer in the Era of Vibe Coding",
+)
+
+#resume-entry(
+  title: "C++ Korea Meetup",
+  location: "Seoul, South Korea",
+  date: "Feb 2026",
+  description: "Reflections After Using C++ and Rust for a Long Time",
+)
 
 #resume-entry(
   title: "K-DEVCON 2025",
